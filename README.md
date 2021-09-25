@@ -6,8 +6,9 @@
 Contact        | Info
 ---------------|-----------------------------
 Email | *jasurbeksharofiddinov62@gmail.com*
+Linkenln | https://www.linkedin.com/in/jasurbek-sharofiddinov-1b7429204/
+Telegram | https://t.me/jasurbeksharofiddinov
 Mobile number | *+99899-994-89-59*
-Telegram | t.me/jasurbeksharofiddinov
 
 
 # EXPERIENCE
