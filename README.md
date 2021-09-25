@@ -1,4 +1,14 @@
-# *Resume :technologist:*
+# *Resume :man_technologist:*
+# Jasurbek Sharofiddinov - 19 y.o
+
+### **Contacts**
+
+Contact        | Info
+---------------|-----------------------------
+Email | *jasurbeksharofiddinov62@gmail.com*
+Mobile number | *+99899-994-89-59*
+Telegram | t.me/jasurbeksharofiddinov
+
 
 # EXPERIENCE
 ### Internship Tashkent, Uzbekistan
@@ -6,10 +16,12 @@
   
     > Learned python programming language
     > Analyzed our project team work and gave their project accuracy every daily info's to developers
+    
 # Updater Tashkent, Uzbekistan
 ### Blue Star Eld Solutions LLC 06/2020-01/2021
     > Collaborated with dispatching team to increase work efficiency
     > Managed team of 6-7 updaters team, oversaw hiring, training and professional growth of employees
+    
 # EDUCATION
 ### INHA University in Tashkent Tashkent, Uzbekistan
 B.Sc. in Computer Information and Engineering Expected graduation date: May 2023
@@ -30,9 +42,12 @@ B.Sc. in Computer Information and Engineering Expected graduation date: May 2023
     - Backend development
     - Database management
     - System Design
+    
 ### SKILLS
     - Programming languages: Python, C#
     - Backend development: Django, Django Rest Framework, MySQL
     - Web development: HTML/CSS3 /Bootstrap
     - Telegram bot: Aiogram
     - Language: English – Intermediate,, Russian – beginner, Uzbek-native
+    
+
