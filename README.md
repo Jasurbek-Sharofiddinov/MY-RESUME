@@ -46,7 +46,7 @@ B.Sc. in Computer Information and Engineering Expected graduation date: May 2023
     
 ### SKILLS
     - Programming languages: Python, C#
-    - Backend development: Django, Django Rest Framework, MySQL
+    - Backend development: Django, Django Rest Framework, Sql, MySQL
     - Web development: HTML/CSS3 /Bootstrap
     - Telegram bot: Aiogram
     - Language: English – Intermediate,, Russian – beginner, Uzbek-native
