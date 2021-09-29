@@ -26,13 +26,15 @@ Mobile number | *+99899-994-89-59*
 # EDUCATION
 ### INHA University in Tashkent Tashkent, Uzbekistan
 B.Sc. in Computer Information and Engineering Expected graduation date: May 2023
-### Institution highlights:
+
+**Institution highlights:**
+
     ▪︎ Object oriented programming 
     ▪︎ Web development 
     ▪︎ Application Programming 
     ▪︎ System Analysis
     ▪︎ Databases
-    ▪︎ Computer algorithms and other engineering related subjects* 
+    ▪︎ Computer algorithms and other engineering related subjects 
 
 ### ISYSTEM IT ACADEMY
 ### Backend development Tashkent, Uzbekistan
