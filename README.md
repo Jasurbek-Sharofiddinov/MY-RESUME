@@ -41,9 +41,9 @@ B.Sc. in Computer Information and Engineering Expected graduation date: May 2023
 
 **Course Objectives:**
 
-    - Frontend development
-    - Backend development
-    - Database management
+    - Frontend development(Html/Css/Bootstrap)
+    - Backend development(Python/Django)
+    - Database management(Mysql)
     - System Design
     
 ### SKILLS
